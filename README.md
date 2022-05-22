@@ -1,2 +1,6 @@
 # ow15ap
-Homemade WIFI ap with OpenWRT 15.x on MT7688
+###Homemade WiFi ap 
+* OpenWRT 15
+* MT7688
+* Android & IPhone tethering
+* WiFI and Ethernet LAN
